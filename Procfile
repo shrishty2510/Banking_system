@@ -1,0 +1,1 @@
+web: gunicorn Banking_system.wsgi
